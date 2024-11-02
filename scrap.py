@@ -140,8 +140,8 @@ def scrape_best_sellers(driver, category_url):
     
 
 # Replace with your actual Amazon credentials
-username = "paragshemankar@gmil.com"
-password = "Parag2507@"
+username = "yourusername"
+password = "youpassword"
 
 # List of 10 category URLs
 def extract_category_urls(url):
